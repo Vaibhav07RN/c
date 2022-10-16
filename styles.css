@@ -1,0 +1,145 @@
+body {
+  background-color: #100F0F;
+  text-align: center;
+  font-family: helvetica, sans-serif, Arial;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Sacramento', cursive;
+}
+
+.Top {
+  margin: 0px auto;
+}
+
+.hello {
+  width: 25%;
+  margin: auto;
+}
+
+a {
+  color: #7FB5FF;
+  font-family: helvetica, sans-serif, Arial;
+  margin: 0px 20px;
+  text-decoration: none;
+
+}
+a:hover{
+  color: #FBDF07;
+}
+
+h1 {
+  color: #47B5FF;
+  padding-top: 80px;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+p {
+  color: #D2DAFF;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+}
+
+h2 {
+  color: #7FB5FF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #7FB5FF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border: dotted #525E75 6px;
+  width: 4%;
+  border-bottom: none;
+  margin: 70px auto;
+}
+
+.paregragh {
+  margin-top: 0px;
+  margin-bottom: 70px;
+}
+
+.Skills {
+  padding-top: 30px;
+  text-align: center;
+}
+
+.right {
+  width: 50%;
+  margin: auto auto 100px auto;
+  text-align: right;
+  line-height: 2;
+}
+
+.left {
+  width: 50%;
+  margin: auto auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.astronaut {
+  width: 20%;
+  float: right;
+  margin-left: 20px;
+}
+
+.meteor {
+  float: left;
+  margin-right: 20px;
+  width: 20%
+}
+
+.contact-me {
+  width: 40%;
+  margin: auto;
+}
+
+.btn {
+  background: #1363DF;
+  background-image: -webkit-linear-gradient(top, #1363DF, #47B5FF);
+  background-image: -moz-linear-gradient(top, #1363DF, #47B5FF);
+  background-image: -ms-linear-gradient(top, #1363DF, #47B5FF);
+  background-image: -o-linear-gradient(top, #1363DF, #47B5FF);
+  background-image: linear-gradient(to bottom, #1363DF, #47B5FF);
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #F15412;
+  background-image: -webkit-linear-gradient(top, #F15412, #FBDF07);
+  background-image: -moz-linear-gradient(top, #F15412, #FBDF07);
+  background-image: -ms-linear-gradient(top, #F15412, #FBDF07);
+  background-image: -o-linear-gradient(top, #F15412, #FBDF07);
+  background-image: linear-gradient(to bottom, #F15412, #FBDF07);
+  text-decoration: none;
+}
+
+.bottom {
+  margin-bottom: 40px;
+}
+
+.bottom-Container {
+  margin-top: 120px;
+}
+
+.copy{
+  color: #4C6793;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
+
+.Profile_vaibhav {
+  width: 7%;
+}
